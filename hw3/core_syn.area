@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : core
+Version: R-2020.09-SP5
+Date   : Mon Nov  7 09:33:32 2022
+****************************************
+
+Library(s) Used:
+
+    slow (File: /home/raid7_2/course/cvsd/CBDK_IC_Contest/CIC/SynopsysDC/db/slow.db)
+    sram_4096x8 (File: /home/raid7_2/user10/r10945006/1111_hw3/sram_4096x8/sram_4096x8_slow_syn.db)
+
+Number of ports:                           32
+Number of nets:                         10291
+Number of cells:                        10194
+Number of combinational cells:           7575
+Number of sequential cells:              2616
+Number of macros/black boxes:               1
+Number of buf/inv:                        619
+Number of references:                     114
+
+Combinational area:              67395.265797
+Buf/Inv area:                     3493.249167
+Noncombinational area:           67430.913376
+Macro/Black Box area:           131906.968750
+Net Interconnect area:         1414100.677826
+
+Total cell area:                266733.147923
+Total area:                    1680833.825749
+1
